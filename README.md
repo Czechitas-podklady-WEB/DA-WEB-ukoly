@@ -36,4 +36,4 @@
 
 ## Týmový úkol 6, o projektu ([zadání](https://github.com/Czechitas-podklady-WEB/Ukol-O-projektu))
 
-Ideálně zadané po lekci na Git 2, ale v době, kdy ještě účastnice neví tolik, aby mohly pracovat na vlastním velkém závěrečném projektu.
+Ideálně zadané po lekci na Git 2, ale v době, kdy ještě účastnice neví tolik, aby mohly pracovat na vlastním velkém závěrečném projektu. Není potřeba znát React.
