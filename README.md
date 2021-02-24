@@ -1,4 +1,4 @@
-# DA-WEB-ukoly
+# Digitální akademie - WEB: domácí úkoly
 
 ## Navazující úkoly 1 až 5, piškvorky
 
