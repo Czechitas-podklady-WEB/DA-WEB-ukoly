@@ -1,5 +1,7 @@
 # Digitální akademie - WEB: domácí úkoly
 
+Tento přehled je určený primárně lektorům a koučům. Pro účastnice slouží [tento odkaz](https://github.com/Czechitas-podklady-WEB/Uvod-do-code-review).
+
 ## Navazující úkoly 1 až 5, piškvorky
 
 ### 1. úkol ([zadání](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-1))
